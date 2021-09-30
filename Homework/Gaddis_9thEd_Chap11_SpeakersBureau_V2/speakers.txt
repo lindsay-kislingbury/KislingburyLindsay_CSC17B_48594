@@ -1,0 +1,12 @@
+Name	Phone	Topic	Fee
+			
+Rick Deckard	7878883	Science	2000
+Jason Taverner	9382438	Motivation	400
+Bob Arctor	6112505	Education	800
+Douglas Quail	4764049	Science	1000
+John Anderton	6787815	Technology	1500
+Joe Chip	7378353	Education	600
+Palmer Eldritch	8948744	Technology	900
+Rachael Rosen	7755775	Science	2000
+Heather Hart	6175061	Motivation	500
+Jack Bohlen	7314589	Science	700

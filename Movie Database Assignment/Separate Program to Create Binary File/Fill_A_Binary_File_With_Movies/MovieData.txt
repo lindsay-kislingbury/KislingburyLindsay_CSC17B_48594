@@ -1,0 +1,101 @@
+
+2001: A Space Odyssey	Stanley Kubrick	1968	149
+The Terminator	James Cameron	1984	107
+Planet of the Apes	Franklin J. Schaffner	1968	112
+Alien	Ridley Scott	1979	117
+Blade Runner	Ridley Scott	1982	117
+Terminator 2	James Cameron	1991	137
+The Matrix	Lana Wachowski	1999	136
+Back To The Future	Robert Zemeckis	1985	116
+Aliens	James Cameron	1986	137
+Interstellar	Christopher Nolan	2014	169
+Contact	Robert Zemeckis	1997	150
+Star Wars: Episode V	Irvin Kershner	1980	124
+Mad Max 2	George Miller	1981	96
+Predator	John McTiernan	1987	107
+The Thing	John Carpenter	1982	109
+The Man From Earth	Richard Schenkman	2007	87
+Edge of Tomorrow	Doug Liman	2014	113
+District 9	Neill Blomkamp	2009	112
+Dark City	Alex Proyas	1998	100
+Blade Runner 2049	Denis Velleneuve	2017	164
+A Clockwork Orange	Stanley Kubrick	1971	136
+Gattaca	Andrew Niccol	1997	106
+Jurrasic Park	Steven Spielberg	1993	127
+Star Wars: Episode III	Geroge Lucas	2005	140
+Mad Max	George Miller	1979	88
+Starship Troopers	Paul Verhoeven	1997	129
+Minority Report	Steven Spielberg	2002	145
+12 Monkeys	Terry Gilliam	1995	129
+Inception	Christopher Nolan	2010	148
+Back To The Future Part II	Robert Zemeckis	1989	108
+Star Wars: Episode IV	George Lucas	1977	121
+The Abyss	James Cameron	1989	140
+Looper	Rian Johnson	2012	113
+E.T. the Extra-Terrestrial	Steven Spielberg	1982	115
+Star Trek: First Contact	Jonathan Frakes	1996	111
+Stargate	Roland Emmerich	1994	116
+Ex Machina	Alex Garland	2014	108
+Dawn of the Planet of the Apes	Matt Reeves	2014	130
+The Truman Show	Peter Weir	1998	103
+Children of Men	Alfonso Cuaron	2006	109
+The Martian	Ridley Scott	2015	144
+Avatar	James Cameron	2009	162
+Star Wars Episode IV	Richard Marquand	1983	131
+The X Files	Rob Bowman	1998	121
+Close Encounters of the Third Kind	Steven Spielberg	1977	138
+Rise of the Planet of the Apes	Rupert Wyatt	2011	105
+Cube	Vincenzo Natali	1997	90
+Star Trek	J.J. Abrams	2009	127
+RoboCop	Paul Verhoeven	1987	102
+The Time Machine	George Pal	1960	103
+Invasion of the Body Snatchers	Philip Kaufman	1978	115
+War for the Planet of the Apes	Matt Reeves	2017	140
+Prometheus	Ridley Scott	2012	124
+Total Recall	Paul Verhoeven	1990	113
+They Live	John Carpenter	1988	94
+Star Trek II	Nicholas Meyer	1982	113
+Sunshine	Danny Boyle	2007	107
+Moon	Duncan Jones	2009	97
+Super 8	J.J. Abrams	2011	112
+I Am Legend	Francis Lawrence	2007	101
+Signs	M. Night Shyamalan	2002	106
+The Fly	David Cronenberg	1986	96
+Escape from New York	John Carpenter	1981	99
+Pacific Rim	Guillermo del Toro	2013	131
+Dredd	Pete Travis	2012	95
+Obilivion	Joseph Kosinski	2013	124
+Cloverfield	Matt Reeves	2008	85
+Pitch Black	David Twohy	2000	109
+Godzilla	Gareth Edwards	2014	123
+Back to the Future Part III	Robert Zemeckis	1990	118
+Limitless	Neil Burger	2011	105
+Deja Vu	Tony Scott	2006	126
+War of the Worlds	Steven Spielberg	2005	116
+The Matrix Reloaded	Lana Wachowski	2003	138
+Elysium	Neill Blomkamp	2013	109
+Enemy Mine	Wolfgang Petersen	1985	108
+The Butterfly Effect	Eric Bress	2004	113
+Predestination	Michael Spierig	2014	97
+A.I. Aritifical Intelligence	Steven Spielberg	2001	146
+Logan's Run	Michael Anderson	1976	119
+Another Earth	Mike Cahill	2011	92
+Independence Day	Roland Emmerich	1996	145
+The Arrival	David Twohy	1996	115
+Terminator 3	Jonathan Mostow	2003	109
+Predators	Nimrod Antal	2010	107
+Outlander	Howard McCain	2008	115
+John Carter	Andrew Stanton	2012	132
+Alien 3	David Fincher	1992	114
+The Lost World	Steven Spielberg	1997	129
+Phenomenon	John Turtletaub	1996	123
+Predator 2	Stephen Hopkins	1990	108
+Star Wars: Episode II	Geroge Lucas	2002	142
+Riddick	David Twohy	2013	119
+Cloud Atlas	Tom Tykwer	2012	172
+Armageddon	Michael Bay	1998	151
+The Running Man	Paul Glaser	1987	101
+The Fifth Element	Luc Besson	1997	126
+Waterworld	Kevin Reynolds	1995	135
+Mimic	Guillermo del Toro 	1997	105
+Paycheck	John Woo	2003	119
